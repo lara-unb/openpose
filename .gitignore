@@ -1,3 +1,6 @@
+resultados/
+*.avi
+
 ######################### Binary Files #########################
 # Compiled Object files
 *.slo
